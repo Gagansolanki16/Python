@@ -1,1 +1,1 @@
-Practicals of Python programming language.
+Practicals of Python Programming Language.
